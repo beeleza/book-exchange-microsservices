@@ -1,0 +1,86 @@
+# Logs
+logs/
+*.log
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+build/
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# STS (Spring Tool Suite)
+.springBeans4
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+tmp/
+temp/
+
+# Application config overrides
+application-local.yml
+application-local.properties
+
+# Docker
+docker-compose.override.yml
+
+# Coverage / reports
+coverage/
+reports/
+
+# Lombok
+lombok.config
+
+# Generated files
+generated/
+
+# Test outputs
+surefire-reports/
+failsafe-reports/
+
+# Node (caso tenha frontend junto)
+node_modules/
+dist/
+
+# IDE misc
+*.swp
+*.swo
