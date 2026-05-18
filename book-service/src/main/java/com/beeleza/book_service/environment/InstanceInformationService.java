@@ -1,6 +1,6 @@
 package com.beeleza.book_service.environment;
 
-import org.springframework.boot.web.server.context.WebServerInitializedEvent;
+import org.springframework.boot.web.context.WebServerInitializedEvent;
 import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Service;
 
